@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Temperature App</string>
+    <string name="hint_key">Your Api Key</string>
+    <string name="key">ff9f895b2e884d6680530135202710</string>
+    <string name="hint_city">Select City</string>
+    <string name="btn_check">Check Temperature</string>
+    <string name="celcius">Celcius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    
+    <string-array name="list_city">
+        <item>Kuala Lumpur</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
